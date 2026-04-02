@@ -1,4 +1,4 @@
-public class task2 {
+public class task {
     public static void main(String[] args) {
 
         int[] array = {9, 2, 6, 4, 5, 12, 7, 8, 6};
